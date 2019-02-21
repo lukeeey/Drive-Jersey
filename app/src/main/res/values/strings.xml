@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drive Jersey</string>
+    <string name="title_carparks">Carparks</string>
+    <string name="title_roadworks">Roadworks</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="settings">Settings</string>
+</resources>
