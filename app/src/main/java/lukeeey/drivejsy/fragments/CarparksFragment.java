@@ -60,7 +60,7 @@ public class CarparksFragment extends Fragment {
 
     private void updateCarparkData() {
         final List<Carpark> list = new ArrayList<>();
-        String url = "http://sojpublicdata.blob.core.windows.net/sojpublicdata/carpark-data.json";
+        String url = "https://sojpublicdata.blob.core.windows.net/sojpublicdata/carpark-data.json";
 
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
             @Override
